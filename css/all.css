@@ -341,6 +341,7 @@ section {
 .contacts {
     padding-top: 50px;
     width: 50%;
+    padding-left: 40px;
     background-color: #333;
 }
 .contacts__social {
